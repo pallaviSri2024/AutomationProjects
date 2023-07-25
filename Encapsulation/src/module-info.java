@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author palri
+ *
+ */
+module Encapsulation {
+}
